@@ -1,5 +1,3 @@
-
-<img gif align="center">
 ![cabecalho](https://user-images.githubusercontent.com/76225863/115777968-531b9e80-a38c-11eb-871d-39d0829bb2b5.gif)
 
 
