@@ -2,8 +2,9 @@
 
 <h2 align="center">
 HELLO WORLD!👋👋👋
-  </p>
+  </p align="rigth>
 </details>
+
 Eu sou André, Estudante de Programação.
 </p>
 Seja muito bem vindo ao meu perfil!
