@@ -2,11 +2,10 @@
 
 <h2 align="center">
 HELLO WORLD!👋👋👋
-  </p align="rigth>
+  </p>
 </details>
 
 Eu sou André, Estudante de Programação.
-</p>
 Seja muito bem vindo ao meu perfil!
 </p>
 Aqui estarei sempre deixando meus projetos e toda a trajetória de meus aprendizados.
